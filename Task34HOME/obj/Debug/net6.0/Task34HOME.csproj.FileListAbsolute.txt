@@ -1,0 +1,15 @@
+C:\Users\kitti\OneDrive\Рабочий стол\разработчик\C#\Seminar 5\Task34HOME\bin\Debug\net6.0\Task34HOME.exe
+C:\Users\kitti\OneDrive\Рабочий стол\разработчик\C#\Seminar 5\Task34HOME\bin\Debug\net6.0\Task34HOME.deps.json
+C:\Users\kitti\OneDrive\Рабочий стол\разработчик\C#\Seminar 5\Task34HOME\bin\Debug\net6.0\Task34HOME.runtimeconfig.json
+C:\Users\kitti\OneDrive\Рабочий стол\разработчик\C#\Seminar 5\Task34HOME\bin\Debug\net6.0\Task34HOME.dll
+C:\Users\kitti\OneDrive\Рабочий стол\разработчик\C#\Seminar 5\Task34HOME\bin\Debug\net6.0\Task34HOME.pdb
+C:\Users\kitti\OneDrive\Рабочий стол\разработчик\C#\Seminar 5\Task34HOME\obj\Debug\net6.0\Task34HOME.csproj.AssemblyReference.cache
+C:\Users\kitti\OneDrive\Рабочий стол\разработчик\C#\Seminar 5\Task34HOME\obj\Debug\net6.0\Task34HOME.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kitti\OneDrive\Рабочий стол\разработчик\C#\Seminar 5\Task34HOME\obj\Debug\net6.0\Task34HOME.AssemblyInfoInputs.cache
+C:\Users\kitti\OneDrive\Рабочий стол\разработчик\C#\Seminar 5\Task34HOME\obj\Debug\net6.0\Task34HOME.AssemblyInfo.cs
+C:\Users\kitti\OneDrive\Рабочий стол\разработчик\C#\Seminar 5\Task34HOME\obj\Debug\net6.0\Task34HOME.csproj.CoreCompileInputs.cache
+C:\Users\kitti\OneDrive\Рабочий стол\разработчик\C#\Seminar 5\Task34HOME\obj\Debug\net6.0\Task34HOME.dll
+C:\Users\kitti\OneDrive\Рабочий стол\разработчик\C#\Seminar 5\Task34HOME\obj\Debug\net6.0\refint\Task34HOME.dll
+C:\Users\kitti\OneDrive\Рабочий стол\разработчик\C#\Seminar 5\Task34HOME\obj\Debug\net6.0\Task34HOME.pdb
+C:\Users\kitti\OneDrive\Рабочий стол\разработчик\C#\Seminar 5\Task34HOME\obj\Debug\net6.0\Task34HOME.genruntimeconfig.cache
+C:\Users\kitti\OneDrive\Рабочий стол\разработчик\C#\Seminar 5\Task34HOME\obj\Debug\net6.0\ref\Task34HOME.dll
